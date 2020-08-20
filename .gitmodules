@@ -4,3 +4,6 @@
 [submodule "gcloud-sdk-node"]
 	path = gcloud-sdk-node
 	url = https://github.com/cakhanif/gcloud-sdk-node
+[submodule "cockpit-kubernetes"]
+	path = cockpit-kubernetes
+	url = https://github.com/cakhanif/cockpit-kubernetes
