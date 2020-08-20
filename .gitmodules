@@ -7,3 +7,6 @@
 [submodule "cockpit-kubernetes"]
 	path = cockpit-kubernetes
 	url = https://github.com/cakhanif/cockpit-kubernetes
+[submodule "centos-openjdk11"]
+	path = centos-openjdk11
+	url = https://github.com/cakhanif/centos-openjdk11
