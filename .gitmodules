@@ -1,0 +1,6 @@
+[submodule "gcloud-sdk-java"]
+	path = gcloud-sdk-java
+	url = https://github.com/cakhanif/gcloud-sdk-java
+[submodule "gcloud-sdk-node"]
+	path = gcloud-sdk-node
+	url = https://github.com/cakhanif/gcloud-sdk-node
